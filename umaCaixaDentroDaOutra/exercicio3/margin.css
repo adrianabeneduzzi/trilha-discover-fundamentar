@@ -1,0 +1,17 @@
+* { margin: 0; }
+
+div, section{
+    border: 1px solid red;
+width: 100px;
+height: 100px;
+
+margin: 10px auto;
+}
+
+/*div{
+    margin-bottom: 14px;
+}
+
+section {
+    margin-top: 12px;
+}*/
