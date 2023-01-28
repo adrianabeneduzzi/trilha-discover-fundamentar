@@ -1,0 +1,18 @@
+* { margin: 0; }
+
+div, section{
+    
+    width: 100px;
+    height: 100px;
+    margin: 20% auto;
+
+    border:20px solid red;
+    border-top: double green 4px;
+    border-bottom: none;
+
+
+    outline: yellow 4px solid; /* Mais usado pelo user agent para acessibilidade*/
+
+    /*box-sizing: border-box; */
+
+}
