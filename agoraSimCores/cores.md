@@ -52,6 +52,14 @@ element {
     color: hsl(30.0 100% 50% / 60%);
     color: hsla(30.2 100% 50% / 60%);
 
+    /* Global values */
+    color: inherit; /* Herança */
+    color: initial;
+    color: unset;
 }
 
 ```
+
+## Referência
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
