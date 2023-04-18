@@ -8,4 +8,6 @@ header {
     /*background-color: aqua;*/
 
     background-color: rgb(55, 100, 50);
+    background-image: url(https://www.rocketseat.com.br/assets/logos/discover-reduced.svg);
+    background-repeat: no-repeat;
 }
