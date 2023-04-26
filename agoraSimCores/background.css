@@ -1,17 +1,22 @@
 * {margin: 0;}
 
-header {
+/* header {
     height: 100px;
     border: 7px dashed red;
     padding: 16px;
 
-    /*background-color: aqua;*/
+    /*background-color: aqua;
+    
+}*/
 
+main {
+    color: white;
     background-color: rgb(55, 100, 50);
     background-image: url(https://www.rocketseat.com.br/assets/logos/discover-reduced.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
     background-origin: content-box;
-    background-clip: content-box ;
+    background-clip: content-box;
+    background-attachment: fixed;
 }
