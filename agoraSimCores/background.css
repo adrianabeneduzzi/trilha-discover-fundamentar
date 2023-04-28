@@ -11,6 +11,9 @@
 
 main {
     color: white;
+    padding: 5px;
+
+
     background-color: rgb(55, 100, 50);
     background-image: url(https://www.rocketseat.com.br/assets/logos/discover-reduced.svg);
     background-repeat: no-repeat;
@@ -19,4 +22,7 @@ main {
     background-origin: content-box;
     background-clip: content-box;
     background-attachment: fixed;
+
+
+    background: rgb(55,100,50) url(https://www.rocketseat.com.br/assets/logos/discover-reduced.svg) no-repeat right top / 150px border-box content-box fixed;
 }
