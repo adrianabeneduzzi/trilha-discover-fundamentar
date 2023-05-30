@@ -10,7 +10,7 @@
 }*/
 
 main {
-    color: white;
+    color: purple;
     padding: 5px;
 
 
@@ -23,11 +23,9 @@ main {
     background-clip: content-box;
     background-attachment: fixed;
 
-    background: rgb(55,100,50) url(https://www.rocketseat.com.br/assets/logos/discover-reduced.svg) no-repeat right top / 150px border-box content-box fixed;
+    /*background: linear-gradient(270deg, red, yellow, green);*/
 
-    background: linear-gradient(270deg, red, yellow, green);
-
-    /*background: linear-gradient(rgba(255,255,255,0), rgba(255,0,0,0.2));*/
+    background: linear-gradient(rgba(255,255,255,0), rgba(255,0,0,0.2)), url(https://www.rocketseat.com.br/assets/logos/discover-reduced.svg) no-repeat right top / 150px border-box content-box fixed;
 
     /*background: linear-gradient(red, yellow, green);*/
 
